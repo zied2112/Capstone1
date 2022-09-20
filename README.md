@@ -16,17 +16,29 @@
 [Live Demo Link](https://zied2112.github.io/Capstone1/)
 
 
+## Screnshots
+
+![image](https://user-images.githubusercontent.com/11340240/191270536-f542f596-e62d-488e-9574-e6135e612315.png)
+![image](https://user-images.githubusercontent.com/11340240/191270636-77a0882d-0806-41ae-9963-266d57245f62.png)
 ## Getting Started
 
+To get a local copy, run the fllowing command.
 
+- `git clone git@github.com:KanzaTahreem/Portfolio-Website.git`
 
 ### Prerequisites
 
-### Setup
+- node.js
+- git
 
 ### Install
 
+- `npm install `
+
 ### Usage
+
+Run live server
+
 
 ### Run tests
 
