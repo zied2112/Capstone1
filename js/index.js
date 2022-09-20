@@ -67,7 +67,7 @@ function matches(x) {
     data.forEach((speaker) => {
       const card = `<div class="speakers-card">
             <div class="speakers-card-img">
-              <img src="${speaker.image}" alt="speaker-1" />
+              <img src="${speaker.image}" alt="speaker-${speaker.id}" />
             </div>
             <div class="speakers-card-info">
               <h3>${speaker.name}</h3>
