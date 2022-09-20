@@ -5,7 +5,7 @@ const speakers = [
     role: 'Professor of Entrepreneurial Legal Studies at Havard Law School',
     description:
       'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
-    image: './images/speakers/speaker_01.png',
+    image: '/images/speakers/speaker_01.png',
   },
   {
     id: '2',
@@ -13,7 +13,7 @@ const speakers = [
     role: 'Professor of Entrepreneurial Legal Studies at Havard Law School',
     description:
       'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
-    image: './images/speakers/speaker_02.png',
+    image: '/images/speakers/speaker_02.png',
   },
   {
     id: '3',
@@ -21,7 +21,7 @@ const speakers = [
     role: 'Professor of Entrepreneurial Legal Studies at Havard Law School',
     description:
       'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
-    image: './images/speakers/speaker_03.png',
+    image: '/images/speakers/speaker_03.png',
   },
   {
     id: '4',
@@ -29,7 +29,7 @@ const speakers = [
     role: 'Professor of Entrepreneurial Legal Studies at Havard Law School',
     description:
       'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
-    image: './images/speakers/speaker_04.png',
+    image: '/images/speakers/speaker_04.png',
   },
   {
     id: '5',
@@ -37,7 +37,7 @@ const speakers = [
     role: 'Professor of Entrepreneurial Legal Studies at Havard Law School',
     description:
       'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
-    image: './images/speakers/speaker_05.png',
+    image: '/images/speakers/speaker_05.png',
   },
   {
     id: '6',
@@ -45,7 +45,7 @@ const speakers = [
     role: 'Professor of Entrepreneurial Legal Studies at Havard Law School',
     description:
       'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.',
-    image: './images/speakers/speaker_06.png',
+    image: '/images/speakers/speaker_06.png',
   },
 ];
 export default speakers;
