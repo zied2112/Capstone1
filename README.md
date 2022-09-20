@@ -10,6 +10,8 @@
 - HTML/CSS/JS 
 - NodeJS 
 - Linters 
+## Project Presentation (LOOM)
+<div style="position: relative; padding-bottom: NaN%; height: 0;"><iframe src="https://www.loom.com/embed/23fe669231f9467196cc0d3a07e36685" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Live Demo (if available)
 
