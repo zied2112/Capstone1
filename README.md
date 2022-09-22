@@ -30,7 +30,7 @@ Global Summit - 20 September 2022 - Watch Video
 
 To get a local copy, run the fllowing command.
 
-- `git clone git@github.com:KanzaTahreem/Portfolio-Website.git`
+- `git clone https://github.com/zied2112/Capstone1.git`
 
 ### Prerequisites
 
